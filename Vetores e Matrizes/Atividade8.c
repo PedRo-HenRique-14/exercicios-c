@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAMANHO 3
+#define TAMANHO 4
 int main(void) {
 	int mat[TAMANHO][TAMANHO], x, l, c;
 	
